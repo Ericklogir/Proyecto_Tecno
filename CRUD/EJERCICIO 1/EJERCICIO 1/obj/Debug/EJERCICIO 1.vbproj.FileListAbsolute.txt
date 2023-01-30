@@ -1,0 +1,28 @@
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe.config
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.xml
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.vbprojResolveAssemblyReference.cache
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Form1.resources
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Resources.resources
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Usuario.resources
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.vbproj.GenerateResource.Cache
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.exe
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.xml
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.pdb
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Administrador.resources
+c:\users\pc05lab4\documents\visual studio 2015\Projects\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.SECRETARIADO.resources
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe.config
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.exe
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.xml
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.pdb
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.xml
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.vbprojResolveAssemblyReference.cache
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Administrador.resources
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Form1.resources
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Resources.resources
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.SECRETARIADO.resources
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO_1.Usuario.resources
+C:\Users\PC05LAB4\Desktop\TECNOLOGÍA ERICK LOPEZ GA1\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.vbproj.GenerateResource.Cache
